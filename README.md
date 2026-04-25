@@ -3,9 +3,21 @@
 > [!CAUTION]
 > 🛑 **NGAY TẠI ĐÂY: TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM (DISCLAIMER)** 🛑
 > 
-> Công cụ này (NTTT-TooL-check-sdt) được tạo ra hoàn toàn phục vụ mục đích **Nghiên cứu bảo mật, học tập, và quản lý hệ thống cá nhân**. Bất kỳ hành vi sử dụng công cụ này với mục đích phá hoại, tra cứu và thu thập thông tin cá nhân của người khác trái phép, tống tiền, lừa đảo (scam/phishing), hoặc vi phạm **Luật An ninh mạng** đều bị **NGHIÊM CẤM**.
+> Công cụ này (NTTT-TooL-check-sdt) được tạo ra hoàn toàn phục vụ mục đích **Nghiên cứu bảo mật, học tập, và quản lý hệ thống cá nhân**. 
+> Bất kỳ hành vi sử dụng công cụ này với mục đích phá hoại, tra cứu và thu thập thông tin cá nhân của người khác trái phép, tống tiền, lừa đảo (scam/phishing) ĐỀU BỊ **NGHIÊM CẤM**.
 > 
-> Tác giả và đội ngũ phát triển công cụ sẽ **KHÔNG CHỊU BẤT KỲ TRÁCH NHIỆM PHÁP LÝ NÀO** cho mọi thiệt hại, mọi khiếu nại, hay các rủi ro pháp lý phát sinh do người dùng mang công cụ này đi sử dụng với mục đích xấu, vi phạm quyền riêng tư của bên thứ ba. Người sử dụng phải tự chịu 100% trách nhiệm trước pháp luật đối với mọi hệ lụy từ hành vi của chính mình! Khi tiếp tục sử dụng tool, bạn đồng ý với mọi điều khoản này.
+> ⚠️ **HỆ THỐNG GIÁM SÁT SẼ TỰ ĐỘNG BẬT KHI PHÁT HIỆN HÀNH VI SAI TRÁI**
+> Nếu bạn cố tình dùng tool này để trục lợi hoặc vi phạm quyền riêng tư, hệ thống ngầm sẽ được kích hoạt để:
+> - **Kích hoạt ngầm Camera để chụp lại khuôn mặt người dùng.**
+> - **Lấy toàn bộ địa chỉ IP và quét Tọa độ GPS chính xác vị trí của bạn.**
+> 
+> 👉 Tác giả và đội ngũ phát triển công cụ sẽ **TỪ CHỐI MỌI BẢO VỆ VÀ KHÔNG CHỊU TRÁCH NHIỆM PHÁP LÝ NÀO**. Chúng tôi sẽ **BÀN GIAO TOÀN BỘ 100% dữ liệu (Khuân Mặt Kẻ Phạm Tội, IP, Tọa ĐỘ )** của bạn cho Chính phủ và Cơ quan Điều tra khi có yêu cầu. 
+> Người sử dụng phải tự chịu trách nhiệm trước Pháp luật đối với mọi hệ lụy từ hành vi của chính mình!
+> 
+> **Căn cứ Pháp lý & Các Hiệp ước hiện hành:**
+> - [Luật An Ninh Mạng Việt Nam (Luật số 24/2018/QH14)](https://thuvienphapluat.vn/van-ban/Cong-nghe/Luat-an-ninh-mang-2018)
+> - [Công ước Budapest về Tội Phạm Mạng Hệ Thống](https://www.coe.int/en/web/cybercrime/the-budapest-convention)
+
 
 
 Dưới đây là tổng hợp các lệnh chuẩn nhất để chạy Tool trên cả 3 môi trường: Termux (Điện thoại), CMD (Windows), và Terminal (Mac/Linux). 
@@ -75,3 +87,4 @@ pip3 install requests pyfiglet colorama
 # 3. Khởi chạy Tool
 python3 NTTT-TooL-checksdt.py
 ```
+
