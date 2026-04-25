@@ -1,7 +1,7 @@
-# Hướng dẫn chạy NTTT-TooL-checksdt
+# Hướng dẫn chạy Tool NTTT-TOOL-Check-SDT & TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM
 
 > [!CAUTION]
-> 🛑 **NGAY TẠI ĐÂY: TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM (DISCLAIMER)** 🛑
+> 🛑 **Cảnh Báo: TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM (DISCLAIMER)** 🛑
 > 
 > Công cụ này (NTTT-TooL-check-sdt) được tạo ra hoàn toàn phục vụ mục đích **Nghiên cứu bảo mật, học tập, và quản lý hệ thống cá nhân**. 
 > Bất kỳ hành vi sử dụng công cụ này với mục đích phá hoại, tra cứu và thu thập thông tin cá nhân của người khác trái phép, tống tiền, lừa đảo (scam/phishing) ĐỀU BỊ **NGHIÊM CẤM**.
