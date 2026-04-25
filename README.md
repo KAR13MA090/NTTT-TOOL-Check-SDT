@@ -1,4 +1,4 @@
-# Hướng dẫn chạy Tool NTTT-TOOL-Check-SDT & TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM
+# Hướng dẫn chạy Tool & NTTT-TOOL-Check-SDT & TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM
 
 > [!CAUTION]
 > 🛑 **Cảnh Báo: TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM (DISCLAIMER)** 🛑
