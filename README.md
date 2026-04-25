@@ -1,5 +1,13 @@
 # Hướng dẫn chạy NTTT-TooL-checksdt
 
+> [!CAUTION]
+> 🛑 **NGAY TẠI ĐÂY: TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM (DISCLAIMER)** 🛑
+> 
+> Công cụ này (NTTT-TooL-check-sdt) được tạo ra hoàn toàn phục vụ mục đích **Nghiên cứu bảo mật, học tập, và quản lý hệ thống cá nhân**. Bất kỳ hành vi sử dụng công cụ này với mục đích phá hoại, tra cứu và thu thập thông tin cá nhân của người khác trái phép, tống tiền, lừa đảo (scam/phishing), hoặc vi phạm **Luật An ninh mạng** đều bị **NGHIÊM CẤM**.
+> 
+> Tác giả và đội ngũ phát triển công cụ sẽ **KHÔNG CHỊU BẤT KỲ TRÁCH NHIỆM PHÁP LÝ NÀO** cho mọi thiệt hại, mọi khiếu nại, hay các rủi ro pháp lý phát sinh do người dùng mang công cụ này đi sử dụng với mục đích xấu, vi phạm quyền riêng tư của bên thứ ba. Người sử dụng phải tự chịu 100% trách nhiệm trước pháp luật đối với mọi hệ lụy từ hành vi của chính mình! Khi tiếp tục sử dụng tool, bạn đồng ý với mọi điều khoản này.
+
+
 Dưới đây là tổng hợp các lệnh chuẩn nhất để chạy Tool trên cả 3 môi trường: Termux (Điện thoại), CMD (Windows), và Terminal (Mac/Linux). 
 
 ---
@@ -66,3 +74,4 @@ pip3 install requests pyfiglet colorama
 
 # 3. Khởi chạy Tool
 python3 NTTT-TooL-checksdt.py
+```
